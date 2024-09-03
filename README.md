@@ -1,2 +1,2 @@
 # SQL_Queries
-This is my first GitHub Repository
+This Reporsitory contains all the SQL Codes for use cases from various websites, Interviews etc.
